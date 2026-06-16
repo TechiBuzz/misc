@@ -1,0 +1,390 @@
+[
+  {
+    "DateTime": "2026-06-17T05:00:00+05:30",
+    "EpochDateTime": 1781652600,
+    "WeatherIcon": 36,
+    "IconPhrase": "Intermittent clouds",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 71,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 2,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=5&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=5&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T06:00:00+05:30",
+    "EpochDateTime": 1781656200,
+    "WeatherIcon": 4,
+    "IconPhrase": "Intermittent clouds",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 71,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 1,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=6&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=6&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T07:00:00+05:30",
+    "EpochDateTime": 1781659800,
+    "WeatherIcon": 4,
+    "IconPhrase": "Intermittent clouds",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 71,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=7&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=7&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T08:00:00+05:30",
+    "EpochDateTime": 1781663400,
+    "WeatherIcon": 3,
+    "IconPhrase": "Partly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 0,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=8&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=8&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T09:00:00+05:30",
+    "EpochDateTime": 1781667000,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 1,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=9&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=9&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T10:00:00+05:30",
+    "EpochDateTime": 1781670600,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 3,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=10&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=10&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T11:00:00+05:30",
+    "EpochDateTime": 1781674200,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 3,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=11&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=11&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T12:00:00+05:30",
+    "EpochDateTime": 1781677800,
+    "WeatherIcon": 2,
+    "IconPhrase": "Mostly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 4,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=12&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=12&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T13:00:00+05:30",
+    "EpochDateTime": 1781681400,
+    "WeatherIcon": 3,
+    "IconPhrase": "Partly sunny",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 7,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=13&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=13&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T14:00:00+05:30",
+    "EpochDateTime": 1781685000,
+    "WeatherIcon": 4,
+    "IconPhrase": "Intermittent clouds",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 88,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 7,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=14&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=14&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T15:00:00+05:30",
+    "EpochDateTime": 1781688600,
+    "WeatherIcon": 6,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 89,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 7,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=15&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=15&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T16:00:00+05:30",
+    "EpochDateTime": 1781692200,
+    "WeatherIcon": 6,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 90,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 7,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=16&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=16&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T17:00:00+05:30",
+    "EpochDateTime": 1781695800,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 88,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 7,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=17&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=17&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T18:00:00+05:30",
+    "EpochDateTime": 1781699400,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": true,
+    "Temperature": {
+      "Value": 86,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 10,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=18&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=18&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T19:00:00+05:30",
+    "EpochDateTime": 1781703000,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 47,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=19&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=19&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T20:00:00+05:30",
+    "EpochDateTime": 1781706600,
+    "WeatherIcon": 15,
+    "IconPhrase": "Thunderstorms",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Moderate",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 81,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 51,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=20&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=20&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T21:00:00+05:30",
+    "EpochDateTime": 1781710200,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 79,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 43,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=21&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=21&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T22:00:00+05:30",
+    "EpochDateTime": 1781713800,
+    "WeatherIcon": 15,
+    "IconPhrase": "Thunderstorms",
+    "HasPrecipitation": true,
+    "PrecipitationType": "Rain",
+    "PrecipitationIntensity": "Light",
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 78,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 54,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=22&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=22&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-17T23:00:00+05:30",
+    "EpochDateTime": 1781717400,
+    "WeatherIcon": 38,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 76,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 49,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=23&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=1&hbhhour=23&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-18T00:00:00+05:30",
+    "EpochDateTime": 1781721000,
+    "WeatherIcon": 38,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 75,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 37,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=0&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=0&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-18T01:00:00+05:30",
+    "EpochDateTime": 1781724600,
+    "WeatherIcon": 38,
+    "IconPhrase": "Mostly cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 20,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=1&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=1&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-18T02:00:00+05:30",
+    "EpochDateTime": 1781728200,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 73,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 20,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=2&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=2&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-18T03:00:00+05:30",
+    "EpochDateTime": 1781731800,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 20,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=3&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=3&lang=en-us"
+  },
+  {
+    "DateTime": "2026-06-18T04:00:00+05:30",
+    "EpochDateTime": 1781735400,
+    "WeatherIcon": 7,
+    "IconPhrase": "Cloudy",
+    "HasPrecipitation": false,
+    "IsDaylight": false,
+    "Temperature": {
+      "Value": 72,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "PrecipitationProbability": 20,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=4&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2&hbhhour=4&lang=en-us"
+  }
+]
