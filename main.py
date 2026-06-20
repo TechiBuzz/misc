@@ -11,6 +11,8 @@ def main():
     # Create root widget
     app = Root()
 
+    app.title("Misc")
+
     scale_factor = app.tk.call("tk", "scaling")
     set_window_scaling(scale_factor)
     set_widget_scaling(scale_factor)

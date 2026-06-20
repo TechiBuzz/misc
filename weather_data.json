@@ -1,0 +1,186 @@
+{
+  "Headline": {
+    "EffectiveDate": "2026-06-20T13:00:00+05:30",
+    "EffectiveEpochDate": 1781940600,
+    "Severity": 5,
+    "Text": "Thunderstorms in the area Saturday afternoon through Saturday evening",
+    "Category": "thunderstorm",
+    "EndDate": "2026-06-21T01:00:00+05:30",
+    "EndEpochDate": 1781983800,
+    "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?unit=c&lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2026-06-19T07:00:00+05:30",
+      "EpochDate": 1781832600,
+      "Temperature": {
+        "Minimum": { "Value": 21.1, "Unit": "C", "UnitType": 17 },
+        "Maximum": { "Value": 30.8, "Unit": "C", "UnitType": 17 }
+      },
+      "Day": {
+        "Icon": 16,
+        "IconPhrase": "Mostly cloudy w/ t-storms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 12,
+        "IconPhrase": "Showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Heavy"
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=1&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=1&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2026-06-20T07:00:00+05:30",
+      "EpochDate": 1781919000,
+      "Temperature": {
+        "Minimum": { "Value": 21.3, "Unit": "C", "UnitType": 17 },
+        "Maximum": { "Value": 29.6, "Unit": "C", "UnitType": 17 }
+      },
+      "Day": {
+        "Icon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=2&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=2&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2026-06-21T07:00:00+05:30",
+      "EpochDate": 1782005400,
+      "Temperature": {
+        "Minimum": { "Value": 20.8, "Unit": "C", "UnitType": 17 },
+        "Maximum": { "Value": 29.4, "Unit": "C", "UnitType": 17 }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 42,
+        "IconPhrase": "Mostly cloudy w/ t-storms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Heavy"
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=3&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=3&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2026-06-22T07:00:00+05:30",
+      "EpochDate": 1782091800,
+      "Temperature": {
+        "Minimum": { "Value": 20.8, "Unit": "C", "UnitType": 17 },
+        "Maximum": { "Value": 28.6, "Unit": "C", "UnitType": 17 }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=4&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=4&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2026-06-23T07:00:00+05:30",
+      "EpochDate": 1782178200,
+      "Temperature": {
+        "Minimum": { "Value": 20.4, "Unit": "C", "UnitType": 17 },
+        "Maximum": { "Value": 27.2, "Unit": "C", "UnitType": 17 }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=5&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=5&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2026-06-24T07:00:00+05:30",
+      "EpochDate": 1782264600,
+      "Temperature": {
+        "Minimum": { "Value": 20.8, "Unit": "C", "UnitType": 17 },
+        "Maximum": { "Value": 27.6, "Unit": "C", "UnitType": 17 }
+      },
+      "Day": {
+        "Icon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=6&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=6&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2026-06-25T07:00:00+05:30",
+      "EpochDate": 1782351000,
+      "Temperature": {
+        "Minimum": { "Value": 20.3, "Unit": "C", "UnitType": 17 },
+        "Maximum": { "Value": 26.6, "Unit": "C", "UnitType": 17 }
+      },
+      "Day": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=7&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/bengaluru/204108/daily-weather-forecast/204108?day=7&unit=c&lang=en-us"
+    }
+  ]
+}
