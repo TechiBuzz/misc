@@ -1,8 +1,11 @@
-from async_tkinter_loop.mixins import AsyncCTk
-from async_tkinter_loop import async_handler
-from customtkinter import *
+import json
 
-from api.weather import city_key
+from async_tkinter_loop import async_handler
+from async_tkinter_loop.mixins import AsyncCTk
+from customtkinter import *
+from PIL import Image
+
+from api import weather_api
 
 
 class Root(CTk, AsyncCTk):
@@ -15,10 +18,14 @@ class Root(CTk, AsyncCTk):
         self.label = CTkLabel(self.response_holder, text="NO DATA")
         self.label.pack()
 
-        self.button = CTkButton(self, command=async_handler(lambda: self.fetch_city_code("Bengaluru")))
+        self.button = CTkButton(
+            self,
+            command=async_handler(lambda: self.fetch_weather("Bengaluru", 7)),
+            text="Weathery Weather",
+        )
         self.button.pack(expand=True)
 
-    async def fetch_city_code(self, city_name):
+    async def fetch_weather(self, city_name: str, days: int):
         self.button.configure(state="disabled")
         self.label.configure(text="Loading...")
 
@@ -27,11 +34,31 @@ class Root(CTk, AsyncCTk):
 
         loading.start()
 
-        # API call
-        code = await city_key.get_city_location(city_name)
+        # API calls
+        weather_data = await weather_api.get_weather_info(city_name, days)
 
-        if code:
-            self.label.configure(text=code)
+        if weather_data:
+            with open("weather_data.json", "w") as file:
+                json.dump(weather_data, file)
+
+            self.label.configure(text="Got Weather Data")
+
+            forecasts = weather_data["DailyForecasts"]
+            for data in forecasts:
+                datetime = data["Date"].partition("T")
+                date = datetime[0]
+                time = datetime[-1][:8]
+
+                print("\n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+")
+
+                print(f"Date: {date}")
+                print(f"Time: {time}")
+                print(f"Min Temperature: {data['Temperature']['Minimum']['Value']}°C")
+                print(f"Max Temperature: {data['Temperature']['Maximum']['Value']}°C")
+                print(f"IconType: {data['Day']['IconPhrase']}")
+                # print(f"Precipitation: {data['PrecipitationProbability']}%")
+
+                print("+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+")
         else:
             self.label.configure(text="DIDNT GET ANYTHING :(")
 
